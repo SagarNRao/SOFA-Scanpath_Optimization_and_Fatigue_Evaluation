@@ -369,4 +369,4 @@ with gr.Blocks(css=CSS, title="ScanpathAI") as demo:
     )
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(share=True)

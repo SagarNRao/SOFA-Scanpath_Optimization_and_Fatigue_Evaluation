@@ -1,13 +1,13 @@
 ---
 title: DSON
-emoji: 📚
-colorFrom: gray
-colorTo: gray
+emoji: 👁️
+colorFrom: indigo
+colorTo: green
 sdk: gradio
-sdk_version: 6.9.0
+sdk_version: "4.44.0"
 app_file: app.py
 pinned: false
-short_description: Predict scanpaths and areas of fatigue along scanpath
+python_version: "3.8"
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
