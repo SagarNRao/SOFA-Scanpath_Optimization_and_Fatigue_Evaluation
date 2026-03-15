@@ -1,0 +1,10 @@
+torch==1.7.1
+torchvision==0.8.2
+transformers==4.8.1
+timm==0.4.9
+ruamel.yaml
+opencv-python
+Pillow>=9.0.0
+einops
+gradio
+huggingface_hub
