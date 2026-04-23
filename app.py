@@ -327,6 +327,7 @@ HEADER = """
   <p style="color:#94a3b8;margin-top:8px;font-size:1rem">
     Upload an image — the model predicts where a human eye would look,<br>
     then flags which fixations show signs of <span style="color:#ef4444">visual fatigue</span>.
+    <span>DISCLAIMER: This model is trained on a very small dataset and created as proof of concept, therefore it might not work for all designs</span>
   </p>
 </div>
 """
