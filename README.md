@@ -1,5 +1,5 @@
 ---
-title: Scanpath Assessment & Fatigue Evaluation
+title: SOFA:Scanpath Assessment & Fatigue Evaluation
 emoji: 👁️
 colorFrom: indigo
 colorTo: green
