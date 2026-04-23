@@ -1,5 +1,5 @@
 ---
-title: DSON
+title: Scanpath Assessment & Fatigue Evaluation
 emoji: 👁️
 colorFrom: indigo
 colorTo: green
